@@ -1,0 +1,5 @@
+
+k
+java:S1450"URemove the "logger" field and declare it as a local variable in the relevant methods.(¡êƒ›
+@
+java:S1068"*Remove this unused "logger" private field.(¡êƒ›

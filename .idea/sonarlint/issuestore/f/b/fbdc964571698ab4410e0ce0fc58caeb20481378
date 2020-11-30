@@ -1,0 +1,20 @@
+
+I
+java:S1068",Remove this unused "SONG_KEY" private field.(´ä§ 8“·ÍïÛ.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(´ä§ 8“·ÍïÛ.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸øÛÈüÿÿÿÿ8¯’°ñÛ.
+h
+java:S1871"LThis branch's code block is the same as the block for the branch on line 15.(ï©ˆ]8ÓööïÛ.
+E	java:S108")Either remove or fill this block of code.(¿å·§8ÓööïÛ.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(³ÎÚ»ùÿÿÿÿ8ç¡¹ïÛ.
+M
+java:S1068	"0Remove this unused "redisService" private field.(º¬Ÿ–8öß¸ïÛ.
+G
+java:S1068
+"*Remove this unused "logger" private field.(¡êƒ›8öß¸ïÛ.
+N
+java:S1068",Remove this unused "ROOM_KEY" private field.(³ÎÚ»ùÿÿÿÿ8ç¡¹ïÛ.
+D	java:S108")Either remove or fill this block of code.(ï©ˆ]8ÓööïÛ.
